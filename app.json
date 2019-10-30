@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "leaflet-challenge",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
